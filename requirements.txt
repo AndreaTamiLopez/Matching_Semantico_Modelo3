@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+torch
+requests
+certifi
+openpyxl
+xlsxwriter
