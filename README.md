@@ -4,7 +4,7 @@ Este repositorio implementa un sistema de emparejamiento semántico entre:
 - **Indicadores de producto de (PATR)**, y
 - **Catálogo de indicadores de producto (MGA / SisPT)**
 
-El objetivo es obtener, para cada proyecto, el **Top-K** de indicadores de producto más relevantes.
+El objetivo es obtener, para cada indicador de producto PATR, el **Top-K** de indicadores de producto MGA más relevantes.
 
 ---
 
