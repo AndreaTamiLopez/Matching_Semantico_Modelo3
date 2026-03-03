@@ -1,10 +1,10 @@
 # Matching semántico con LLM Re-Ranking (Ollama)
 
 Este repositorio implementa un sistema de emparejamiento semántico entre:
-- **Indicadores de proyectos (PATR)**, y
-- **Catálogo de políticas/indicadores (MGA / SisPT)**
+- **Indicadores de producto de (PATR)**, y
+- **Catálogo de indicadores de producto (MGA / SisPT)**
 
-El objetivo es obtener, para cada proyecto, el **Top-K** de políticas más relevantes.
+El objetivo es obtener, para cada proyecto, el **Top-K** de indicadores de producto más relevantes.
 
 ---
 
